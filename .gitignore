@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.idea
+Data
+Cache
+.tmp.drivedownload
+__pycache__
+*.log
+*.pkl
